@@ -8,8 +8,8 @@ One would think that in computational sciences can avoid these problems because 
 In this workshop, we'll talk about how to take messy research code and make it easily available and re-runnable, as well as free of common errors. This way, not only will your work be easier for others to redo, but also you'll be your own best collaborator for when you need to update your work, find problems, or come back to your work after a long break.
 
 List of lessons:
-1. Set up a git repository for the code and make sure that it runs. Get started [here]("setting_up_your_code.md"). 
-2. Work on [making code modular]("modular_code.Rmd").
+1. Set up a git repository for the code and make sure that it runs. Get started [here](setting_up_your_code.md). 
+2. Work on [making code modular](modular_code.Rmd).
 3. Write unit tests.
 4. Debug confusing error messages...
 TBD...
