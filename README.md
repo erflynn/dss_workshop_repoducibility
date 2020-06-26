@@ -9,7 +9,7 @@ In this workshop, we'll talk about how to take messy research code and make it e
 
 List of lessons:
 1. Set up a git repository for the code and make sure that it runs. Get started [here](setting_up_your_code.md). 
-2. Work on [making code modular](modular_code.Rmd).
+2. Work on [making code modular](modular_code.md).
 3. Write unit tests.
 4. Debug confusing error messages...
 TBD...
